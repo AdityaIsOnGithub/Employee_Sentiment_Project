@@ -1,0 +1,501 @@
+Date,Employee_ID,Message,Sentiment_Label,Month_Year,Score
+2025-04-13,106,The management is terrible and I feel burnt out.,Negative,2025-04,-1
+2025-12-15,101,Fantastic work environment and great benefits.,Positive,2025-12,1
+2025-09-28,100,Highly recommend this company to others.,Positive,2025-09,1
+2025-04-17,103,Highly recommend this company to others.,Positive,2025-04,1
+2025-03-13,107,"The meeting was okay, nothing special.",Neutral,2025-03,0
+2025-07-08,101,Neutral experience so far.,Positive,2025-07,1
+2025-01-21,102,"The meeting was okay, nothing special.",Neutral,2025-01,0
+2025-04-13,100,"I want to quit, this is far too stressful.",Negative,2025-04,-1
+2025-05-02,100,"I want to quit, this is far too stressful.",Negative,2025-05,-1
+2025-08-03,102,"The meeting was okay, nothing special.",Neutral,2025-08,0
+2025-11-27,104,Neutral experience so far.,Positive,2025-11,1
+2025-03-29,102,"The meeting was okay, nothing special.",Neutral,2025-03,0
+2025-04-10,100,Highly recommend this company to others.,Positive,2025-04,1
+2025-12-26,100,Good overall experience this month.,Positive,2025-12,1
+2025-06-01,107,I am learning a lot but the hours are incredibly long.,Neutral,2025-06,0
+2025-05-11,109,"I love the new project, it's very exciting!",Positive,2025-05,1
+2025-05-30,101,I am learning a lot but the hours are incredibly long.,Neutral,2025-05,0
+2025-11-05,102,Neutral experience so far.,Positive,2025-11,1
+2025-09-15,101,I am learning a lot but the hours are incredibly long.,Neutral,2025-09,0
+2025-12-10,102,"I want to quit, this is far too stressful.",Negative,2025-12,-1
+2025-10-21,106,Poor work-life balance.,Negative,2025-10,-1
+2025-07-11,100,"I love the new project, it's very exciting!",Positive,2025-07,1
+2025-10-04,109,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-06-10,107,Neutral experience so far.,Positive,2025-06,1
+2025-11-10,109,"I love the new project, it's very exciting!",Positive,2025-11,1
+2025-01-22,109,I am learning a lot but the hours are incredibly long.,Neutral,2025-01,0
+2025-09-10,109,"I want to quit, this is far too stressful.",Negative,2025-09,-1
+2025-08-24,101,The management is terrible and I feel burnt out.,Negative,2025-08,-1
+2025-12-11,102,Good overall experience this month.,Positive,2025-12,1
+2025-02-18,108,Fantastic work environment and great benefits.,Positive,2025-02,1
+2025-02-28,106,Good overall experience this month.,Positive,2025-02,1
+2025-06-19,103,"I love the new project, it's very exciting!",Positive,2025-06,1
+2025-07-07,109,"I want to quit, this is far too stressful.",Negative,2025-07,-1
+2025-09-28,104,"I want to quit, this is far too stressful.",Negative,2025-09,-1
+2025-07-09,101,I am learning a lot but the hours are incredibly long.,Neutral,2025-07,0
+2025-06-24,107,Highly recommend this company to others.,Positive,2025-06,1
+2025-02-20,103,I am learning a lot but the hours are incredibly long.,Neutral,2025-02,0
+2025-12-30,108,Highly recommend this company to others.,Positive,2025-12,1
+2025-02-24,104,Highly recommend this company to others.,Positive,2025-02,1
+2025-09-01,108,Fantastic work environment and great benefits.,Positive,2025-09,1
+2025-11-16,103,I am learning a lot but the hours are incredibly long.,Neutral,2025-11,0
+2025-05-11,109,The management is terrible and I feel burnt out.,Negative,2025-05,-1
+2025-11-03,104,"The meeting was okay, nothing special.",Neutral,2025-11,0
+2025-05-15,108,"The meeting was okay, nothing special.",Neutral,2025-05,0
+2025-01-21,107,I am learning a lot but the hours are incredibly long.,Neutral,2025-01,0
+2025-11-25,102,I am learning a lot but the hours are incredibly long.,Neutral,2025-11,0
+2025-06-16,100,Good overall experience this month.,Positive,2025-06,1
+2025-10-01,102,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-03-30,103,I am learning a lot but the hours are incredibly long.,Neutral,2025-03,0
+2025-11-12,101,Good overall experience this month.,Positive,2025-11,1
+2025-01-14,100,Highly recommend this company to others.,Positive,2025-01,1
+2025-08-30,106,"I want to quit, this is far too stressful.",Negative,2025-08,-1
+2025-09-22,107,"I want to quit, this is far too stressful.",Negative,2025-09,-1
+2025-12-12,106,Highly recommend this company to others.,Positive,2025-12,1
+2025-02-22,104,Neutral experience so far.,Positive,2025-02,1
+2025-12-06,100,Good overall experience this month.,Positive,2025-12,1
+2025-04-02,106,Good overall experience this month.,Positive,2025-04,1
+2025-09-21,106,Highly recommend this company to others.,Positive,2025-09,1
+2025-02-04,108,The management is terrible and I feel burnt out.,Negative,2025-02,-1
+2025-07-25,102,Poor work-life balance.,Negative,2025-07,-1
+2025-03-22,108,"I love the new project, it's very exciting!",Positive,2025-03,1
+2025-02-19,100,Highly recommend this company to others.,Positive,2025-02,1
+2025-12-26,100,I am learning a lot but the hours are incredibly long.,Neutral,2025-12,0
+2025-01-02,103,I am learning a lot but the hours are incredibly long.,Neutral,2025-01,0
+2025-02-23,108,Fantastic work environment and great benefits.,Positive,2025-02,1
+2025-04-16,105,Highly recommend this company to others.,Positive,2025-04,1
+2025-09-17,102,Fantastic work environment and great benefits.,Positive,2025-09,1
+2025-11-06,100,Highly recommend this company to others.,Positive,2025-11,1
+2025-07-10,103,Good overall experience this month.,Positive,2025-07,1
+2025-08-06,108,"I love the new project, it's very exciting!",Positive,2025-08,1
+2025-02-13,102,Good overall experience this month.,Positive,2025-02,1
+2025-06-11,108,Poor work-life balance.,Negative,2025-06,-1
+2025-07-21,106,"I want to quit, this is far too stressful.",Negative,2025-07,-1
+2025-09-27,103,"The meeting was okay, nothing special.",Neutral,2025-09,0
+2025-12-17,102,Highly recommend this company to others.,Positive,2025-12,1
+2025-10-31,109,Poor work-life balance.,Negative,2025-10,-1
+2025-09-28,104,"I want to quit, this is far too stressful.",Negative,2025-09,-1
+2025-08-03,104,Neutral experience so far.,Positive,2025-08,1
+2025-09-09,102,"I love the new project, it's very exciting!",Positive,2025-09,1
+2025-07-09,108,Fantastic work environment and great benefits.,Positive,2025-07,1
+2025-10-23,103,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-08-01,104,Good overall experience this month.,Positive,2025-08,1
+2025-07-27,103,I am learning a lot but the hours are incredibly long.,Neutral,2025-07,0
+2025-08-25,104,"I want to quit, this is far too stressful.",Negative,2025-08,-1
+2025-12-04,106,Neutral experience so far.,Positive,2025-12,1
+2025-02-22,108,Poor work-life balance.,Negative,2025-02,-1
+2025-10-07,106,"I love the new project, it's very exciting!",Positive,2025-10,1
+2025-08-05,104,"I want to quit, this is far too stressful.",Negative,2025-08,-1
+2025-09-09,109,Neutral experience so far.,Positive,2025-09,1
+2025-07-07,109,"The meeting was okay, nothing special.",Neutral,2025-07,0
+2025-02-10,106,Highly recommend this company to others.,Positive,2025-02,1
+2025-06-06,109,Fantastic work environment and great benefits.,Positive,2025-06,1
+2025-01-15,104,Poor work-life balance.,Negative,2025-01,-1
+2025-10-28,102,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-03-06,106,Poor work-life balance.,Negative,2025-03,-1
+2025-12-11,101,Good overall experience this month.,Positive,2025-12,1
+2025-11-23,108,I am learning a lot but the hours are incredibly long.,Neutral,2025-11,0
+2025-01-09,109,Poor work-life balance.,Negative,2025-01,-1
+2025-12-10,109,Fantastic work environment and great benefits.,Positive,2025-12,1
+2025-05-09,100,Good overall experience this month.,Positive,2025-05,1
+2025-05-16,105,Poor work-life balance.,Negative,2025-05,-1
+2025-03-04,106,"The meeting was okay, nothing special.",Neutral,2025-03,0
+2025-05-19,107,I am learning a lot but the hours are incredibly long.,Neutral,2025-05,0
+2025-03-22,109,Poor work-life balance.,Negative,2025-03,-1
+2025-06-12,108,Good overall experience this month.,Positive,2025-06,1
+2025-10-16,101,"I want to quit, this is far too stressful.",Negative,2025-10,-1
+2025-09-18,109,The management is terrible and I feel burnt out.,Negative,2025-09,-1
+2025-08-19,101,Neutral experience so far.,Positive,2025-08,1
+2025-02-10,104,The management is terrible and I feel burnt out.,Negative,2025-02,-1
+2025-01-28,104,The management is terrible and I feel burnt out.,Negative,2025-01,-1
+2025-05-15,105,"I love the new project, it's very exciting!",Positive,2025-05,1
+2025-07-20,102,"The meeting was okay, nothing special.",Neutral,2025-07,0
+2025-11-24,107,"I want to quit, this is far too stressful.",Negative,2025-11,-1
+2025-09-25,100,Highly recommend this company to others.,Positive,2025-09,1
+2025-02-02,105,Poor work-life balance.,Negative,2025-02,-1
+2025-02-17,103,Neutral experience so far.,Positive,2025-02,1
+2025-03-03,100,I am learning a lot but the hours are incredibly long.,Neutral,2025-03,0
+2025-08-04,106,"I want to quit, this is far too stressful.",Negative,2025-08,-1
+2025-10-20,108,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-04-09,103,Highly recommend this company to others.,Positive,2025-04,1
+2025-06-21,103,"I love the new project, it's very exciting!",Positive,2025-06,1
+2025-12-26,105,"I love the new project, it's very exciting!",Positive,2025-12,1
+2025-08-02,102,"I want to quit, this is far too stressful.",Negative,2025-08,-1
+2025-02-04,105,Good overall experience this month.,Positive,2025-02,1
+2025-08-15,106,The management is terrible and I feel burnt out.,Negative,2025-08,-1
+2025-04-11,109,Fantastic work environment and great benefits.,Positive,2025-04,1
+2025-05-11,109,"I love the new project, it's very exciting!",Positive,2025-05,1
+2025-09-14,102,Neutral experience so far.,Positive,2025-09,1
+2025-01-05,106,"I love the new project, it's very exciting!",Positive,2025-01,1
+2025-08-06,102,I am learning a lot but the hours are incredibly long.,Neutral,2025-08,0
+2025-09-12,101,Poor work-life balance.,Negative,2025-09,-1
+2025-12-25,109,"I love the new project, it's very exciting!",Positive,2025-12,1
+2025-10-10,103,I am learning a lot but the hours are incredibly long.,Neutral,2025-10,0
+2025-07-26,107,"I want to quit, this is far too stressful.",Negative,2025-07,-1
+2025-01-15,108,"I want to quit, this is far too stressful.",Negative,2025-01,-1
+2025-12-12,106,Highly recommend this company to others.,Positive,2025-12,1
+2025-02-11,100,"I love the new project, it's very exciting!",Positive,2025-02,1
+2025-06-28,102,Neutral experience so far.,Positive,2025-06,1
+2025-03-04,108,"I love the new project, it's very exciting!",Positive,2025-03,1
+2025-12-18,100,Neutral experience so far.,Positive,2025-12,1
+2025-08-19,108,"The meeting was okay, nothing special.",Neutral,2025-08,0
+2025-08-29,107,Highly recommend this company to others.,Positive,2025-08,1
+2025-02-21,100,"The meeting was okay, nothing special.",Neutral,2025-02,0
+2025-04-06,105,"I love the new project, it's very exciting!",Positive,2025-04,1
+2025-08-10,104,Highly recommend this company to others.,Positive,2025-08,1
+2025-08-19,105,"The meeting was okay, nothing special.",Neutral,2025-08,0
+2025-08-25,109,The management is terrible and I feel burnt out.,Negative,2025-08,-1
+2025-05-23,104,"I love the new project, it's very exciting!",Positive,2025-05,1
+2025-06-20,105,"The meeting was okay, nothing special.",Neutral,2025-06,0
+2025-01-29,104,The management is terrible and I feel burnt out.,Negative,2025-01,-1
+2025-02-05,104,The management is terrible and I feel burnt out.,Negative,2025-02,-1
+2025-01-13,103,"I want to quit, this is far too stressful.",Negative,2025-01,-1
+2025-06-09,102,"I love the new project, it's very exciting!",Positive,2025-06,1
+2025-11-23,102,The management is terrible and I feel burnt out.,Negative,2025-11,-1
+2025-07-06,103,"I want to quit, this is far too stressful.",Negative,2025-07,-1
+2025-08-31,108,"The meeting was okay, nothing special.",Neutral,2025-08,0
+2025-03-27,101,I am learning a lot but the hours are incredibly long.,Neutral,2025-03,0
+2025-10-11,108,"I love the new project, it's very exciting!",Positive,2025-10,1
+2025-03-07,100,Highly recommend this company to others.,Positive,2025-03,1
+2025-06-19,100,Neutral experience so far.,Positive,2025-06,1
+2025-02-14,104,Neutral experience so far.,Positive,2025-02,1
+2025-03-03,105,"The meeting was okay, nothing special.",Neutral,2025-03,0
+2025-05-14,105,Good overall experience this month.,Positive,2025-05,1
+2025-10-11,102,Good overall experience this month.,Positive,2025-10,1
+2025-01-28,106,"The meeting was okay, nothing special.",Neutral,2025-01,0
+2025-04-18,108,The management is terrible and I feel burnt out.,Negative,2025-04,-1
+2025-02-13,109,"I love the new project, it's very exciting!",Positive,2025-02,1
+2025-12-06,107,Neutral experience so far.,Positive,2025-12,1
+2025-10-13,105,Neutral experience so far.,Positive,2025-10,1
+2025-11-27,107,The management is terrible and I feel burnt out.,Negative,2025-11,-1
+2025-05-08,104,Neutral experience so far.,Positive,2025-05,1
+2025-12-14,107,Highly recommend this company to others.,Positive,2025-12,1
+2025-08-19,109,"I love the new project, it's very exciting!",Positive,2025-08,1
+2025-07-09,103,Poor work-life balance.,Negative,2025-07,-1
+2025-08-13,109,Neutral experience so far.,Positive,2025-08,1
+2025-10-10,107,"The meeting was okay, nothing special.",Neutral,2025-10,0
+2025-05-01,109,Highly recommend this company to others.,Positive,2025-05,1
+2025-04-26,101,Neutral experience so far.,Positive,2025-04,1
+2025-08-21,104,Highly recommend this company to others.,Positive,2025-08,1
+2025-09-16,108,"I want to quit, this is far too stressful.",Negative,2025-09,-1
+2025-12-25,103,Poor work-life balance.,Negative,2025-12,-1
+2025-07-17,105,Fantastic work environment and great benefits.,Positive,2025-07,1
+2025-05-17,100,"The meeting was okay, nothing special.",Neutral,2025-05,0
+2025-11-14,108,"The meeting was okay, nothing special.",Neutral,2025-11,0
+2025-06-14,100,"I love the new project, it's very exciting!",Positive,2025-06,1
+2025-08-13,104,Highly recommend this company to others.,Positive,2025-08,1
+2025-11-03,103,The management is terrible and I feel burnt out.,Negative,2025-11,-1
+2025-08-22,102,"The meeting was okay, nothing special.",Neutral,2025-08,0
+2025-06-21,105,Highly recommend this company to others.,Positive,2025-06,1
+2025-06-01,101,Highly recommend this company to others.,Positive,2025-06,1
+2025-11-11,102,I am learning a lot but the hours are incredibly long.,Neutral,2025-11,0
+2025-06-09,104,I am learning a lot but the hours are incredibly long.,Neutral,2025-06,0
+2025-04-06,108,Fantastic work environment and great benefits.,Positive,2025-04,1
+2025-08-21,101,"I want to quit, this is far too stressful.",Negative,2025-08,-1
+2025-06-29,109,Fantastic work environment and great benefits.,Positive,2025-06,1
+2025-04-23,107,Neutral experience so far.,Positive,2025-04,1
+2025-11-14,101,The management is terrible and I feel burnt out.,Negative,2025-11,-1
+2025-02-21,104,Neutral experience so far.,Positive,2025-02,1
+2025-09-25,106,Good overall experience this month.,Positive,2025-09,1
+2025-10-22,107,Neutral experience so far.,Positive,2025-10,1
+2025-04-23,100,"I love the new project, it's very exciting!",Positive,2025-04,1
+2025-04-11,105,Neutral experience so far.,Positive,2025-04,1
+2025-04-23,100,Fantastic work environment and great benefits.,Positive,2025-04,1
+2025-03-22,101,"The meeting was okay, nothing special.",Neutral,2025-03,0
+2025-07-06,100,"The meeting was okay, nothing special.",Neutral,2025-07,0
+2025-04-23,104,I am learning a lot but the hours are incredibly long.,Neutral,2025-04,0
+2025-01-02,109,The management is terrible and I feel burnt out.,Negative,2025-01,-1
+2025-05-10,108,The management is terrible and I feel burnt out.,Negative,2025-05,-1
+2025-08-08,105,"I love the new project, it's very exciting!",Positive,2025-08,1
+2025-02-23,100,Fantastic work environment and great benefits.,Positive,2025-02,1
+2025-12-09,100,I am learning a lot but the hours are incredibly long.,Neutral,2025-12,0
+2025-08-12,101,Good overall experience this month.,Positive,2025-08,1
+2025-08-13,108,The management is terrible and I feel burnt out.,Negative,2025-08,-1
+2025-05-06,102,"The meeting was okay, nothing special.",Neutral,2025-05,0
+2025-05-10,100,Neutral experience so far.,Positive,2025-05,1
+2025-02-22,104,Neutral experience so far.,Positive,2025-02,1
+2025-06-21,106,I am learning a lot but the hours are incredibly long.,Neutral,2025-06,0
+2025-08-06,105,Fantastic work environment and great benefits.,Positive,2025-08,1
+2025-06-09,100,Fantastic work environment and great benefits.,Positive,2025-06,1
+2025-07-17,104,"I want to quit, this is far too stressful.",Negative,2025-07,-1
+2025-09-04,104,Poor work-life balance.,Negative,2025-09,-1
+2025-11-20,105,The management is terrible and I feel burnt out.,Negative,2025-11,-1
+2025-07-22,102,Fantastic work environment and great benefits.,Positive,2025-07,1
+2025-07-03,104,"The meeting was okay, nothing special.",Neutral,2025-07,0
+2025-05-03,106,I am learning a lot but the hours are incredibly long.,Neutral,2025-05,0
+2025-09-12,104,Good overall experience this month.,Positive,2025-09,1
+2025-10-21,104,"I want to quit, this is far too stressful.",Negative,2025-10,-1
+2025-10-07,104,Highly recommend this company to others.,Positive,2025-10,1
+2025-11-21,109,"I love the new project, it's very exciting!",Positive,2025-11,1
+2025-04-08,109,Good overall experience this month.,Positive,2025-04,1
+2025-07-17,102,Highly recommend this company to others.,Positive,2025-07,1
+2025-08-28,100,Neutral experience so far.,Positive,2025-08,1
+2025-05-24,104,"I love the new project, it's very exciting!",Positive,2025-05,1
+2025-04-07,108,The management is terrible and I feel burnt out.,Negative,2025-04,-1
+2025-07-20,100,"The meeting was okay, nothing special.",Neutral,2025-07,0
+2025-05-04,102,"I love the new project, it's very exciting!",Positive,2025-05,1
+2025-07-06,103,Poor work-life balance.,Negative,2025-07,-1
+2025-11-22,100,Highly recommend this company to others.,Positive,2025-11,1
+2025-12-15,100,The management is terrible and I feel burnt out.,Negative,2025-12,-1
+2025-09-16,107,Poor work-life balance.,Negative,2025-09,-1
+2025-05-28,101,Neutral experience so far.,Positive,2025-05,1
+2025-09-09,107,Poor work-life balance.,Negative,2025-09,-1
+2025-12-12,106,"I want to quit, this is far too stressful.",Negative,2025-12,-1
+2025-05-27,109,"I want to quit, this is far too stressful.",Negative,2025-05,-1
+2025-05-28,109,I am learning a lot but the hours are incredibly long.,Neutral,2025-05,0
+2025-12-18,101,Good overall experience this month.,Positive,2025-12,1
+2025-07-18,105,Good overall experience this month.,Positive,2025-07,1
+2025-11-04,105,The management is terrible and I feel burnt out.,Negative,2025-11,-1
+2025-05-08,102,Neutral experience so far.,Positive,2025-05,1
+2025-02-08,101,Fantastic work environment and great benefits.,Positive,2025-02,1
+2025-12-04,100,"I want to quit, this is far too stressful.",Negative,2025-12,-1
+2025-12-26,105,The management is terrible and I feel burnt out.,Negative,2025-12,-1
+2025-05-09,104,Fantastic work environment and great benefits.,Positive,2025-05,1
+2025-09-24,108,Good overall experience this month.,Positive,2025-09,1
+2025-05-31,100,I am learning a lot but the hours are incredibly long.,Neutral,2025-05,0
+2025-10-25,106,Poor work-life balance.,Negative,2025-10,-1
+2025-04-09,104,"I want to quit, this is far too stressful.",Negative,2025-04,-1
+2025-09-20,104,The management is terrible and I feel burnt out.,Negative,2025-09,-1
+2025-09-09,101,"I love the new project, it's very exciting!",Positive,2025-09,1
+2025-05-24,102,Fantastic work environment and great benefits.,Positive,2025-05,1
+2025-12-12,106,Poor work-life balance.,Negative,2025-12,-1
+2025-04-22,105,"I want to quit, this is far too stressful.",Negative,2025-04,-1
+2025-03-01,101,Good overall experience this month.,Positive,2025-03,1
+2025-01-02,105,Neutral experience so far.,Positive,2025-01,1
+2025-10-31,101,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-09-11,101,Good overall experience this month.,Positive,2025-09,1
+2025-05-20,101,"I want to quit, this is far too stressful.",Negative,2025-05,-1
+2025-02-06,102,Fantastic work environment and great benefits.,Positive,2025-02,1
+2025-06-09,101,Poor work-life balance.,Negative,2025-06,-1
+2025-01-09,103,"I want to quit, this is far too stressful.",Negative,2025-01,-1
+2025-08-21,108,Highly recommend this company to others.,Positive,2025-08,1
+2025-04-09,105,The management is terrible and I feel burnt out.,Negative,2025-04,-1
+2025-05-27,100,Poor work-life balance.,Negative,2025-05,-1
+2025-10-31,107,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-07-27,106,Neutral experience so far.,Positive,2025-07,1
+2025-05-11,109,Good overall experience this month.,Positive,2025-05,1
+2025-06-01,102,"I love the new project, it's very exciting!",Positive,2025-06,1
+2025-02-23,100,Good overall experience this month.,Positive,2025-02,1
+2025-04-30,104,Fantastic work environment and great benefits.,Positive,2025-04,1
+2025-06-10,103,Good overall experience this month.,Positive,2025-06,1
+2025-04-26,109,The management is terrible and I feel burnt out.,Negative,2025-04,-1
+2025-03-16,107,"I want to quit, this is far too stressful.",Negative,2025-03,-1
+2025-04-23,100,"I love the new project, it's very exciting!",Positive,2025-04,1
+2025-04-14,109,"The meeting was okay, nothing special.",Neutral,2025-04,0
+2025-12-06,100,Fantastic work environment and great benefits.,Positive,2025-12,1
+2025-09-11,103,I am learning a lot but the hours are incredibly long.,Neutral,2025-09,0
+2025-08-15,107,"The meeting was okay, nothing special.",Neutral,2025-08,0
+2025-04-22,104,Good overall experience this month.,Positive,2025-04,1
+2025-04-09,101,Fantastic work environment and great benefits.,Positive,2025-04,1
+2025-06-02,105,Highly recommend this company to others.,Positive,2025-06,1
+2025-12-15,104,I am learning a lot but the hours are incredibly long.,Neutral,2025-12,0
+2025-12-04,101,"I love the new project, it's very exciting!",Positive,2025-12,1
+2025-07-13,102,Neutral experience so far.,Positive,2025-07,1
+2025-11-06,108,Highly recommend this company to others.,Positive,2025-11,1
+2025-06-12,106,"The meeting was okay, nothing special.",Neutral,2025-06,0
+2025-07-27,106,"I want to quit, this is far too stressful.",Negative,2025-07,-1
+2025-06-18,105,The management is terrible and I feel burnt out.,Negative,2025-06,-1
+2025-06-10,107,Neutral experience so far.,Positive,2025-06,1
+2025-03-09,103,Highly recommend this company to others.,Positive,2025-03,1
+2025-10-16,107,"I want to quit, this is far too stressful.",Negative,2025-10,-1
+2025-10-04,103,"I want to quit, this is far too stressful.",Negative,2025-10,-1
+2025-10-31,107,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-05-15,108,Highly recommend this company to others.,Positive,2025-05,1
+2025-07-14,102,"I love the new project, it's very exciting!",Positive,2025-07,1
+2025-05-08,102,Good overall experience this month.,Positive,2025-05,1
+2025-02-02,101,I am learning a lot but the hours are incredibly long.,Neutral,2025-02,0
+2025-06-25,109,I am learning a lot but the hours are incredibly long.,Neutral,2025-06,0
+2025-01-22,102,"The meeting was okay, nothing special.",Neutral,2025-01,0
+2025-08-26,102,"The meeting was okay, nothing special.",Neutral,2025-08,0
+2025-06-07,104,I am learning a lot but the hours are incredibly long.,Neutral,2025-06,0
+2025-02-07,104,"I love the new project, it's very exciting!",Positive,2025-02,1
+2025-08-18,101,The management is terrible and I feel burnt out.,Negative,2025-08,-1
+2025-12-31,109,Poor work-life balance.,Negative,2025-12,-1
+2025-02-20,105,Good overall experience this month.,Positive,2025-02,1
+2025-09-21,104,The management is terrible and I feel burnt out.,Negative,2025-09,-1
+2025-10-10,105,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-01-27,100,Poor work-life balance.,Negative,2025-01,-1
+2025-08-14,104,Poor work-life balance.,Negative,2025-08,-1
+2025-10-04,108,Highly recommend this company to others.,Positive,2025-10,1
+2025-10-13,109,"I love the new project, it's very exciting!",Positive,2025-10,1
+2025-04-07,101,"I love the new project, it's very exciting!",Positive,2025-04,1
+2025-10-11,100,Poor work-life balance.,Negative,2025-10,-1
+2025-11-13,109,Highly recommend this company to others.,Positive,2025-11,1
+2025-10-31,108,Good overall experience this month.,Positive,2025-10,1
+2025-05-27,109,Poor work-life balance.,Negative,2025-05,-1
+2025-01-04,108,Neutral experience so far.,Positive,2025-01,1
+2025-02-04,108,"The meeting was okay, nothing special.",Neutral,2025-02,0
+2025-07-11,105,"The meeting was okay, nothing special.",Neutral,2025-07,0
+2025-02-18,107,The management is terrible and I feel burnt out.,Negative,2025-02,-1
+2025-01-17,100,Fantastic work environment and great benefits.,Positive,2025-01,1
+2025-06-21,109,"The meeting was okay, nothing special.",Neutral,2025-06,0
+2025-08-08,103,"I want to quit, this is far too stressful.",Negative,2025-08,-1
+2025-06-07,100,The management is terrible and I feel burnt out.,Negative,2025-06,-1
+2025-02-15,107,"The meeting was okay, nothing special.",Neutral,2025-02,0
+2025-01-06,100,Fantastic work environment and great benefits.,Positive,2025-01,1
+2025-04-09,102,"I love the new project, it's very exciting!",Positive,2025-04,1
+2025-08-21,103,"I love the new project, it's very exciting!",Positive,2025-08,1
+2025-02-06,107,Good overall experience this month.,Positive,2025-02,1
+2025-10-07,105,Poor work-life balance.,Negative,2025-10,-1
+2025-12-15,109,Neutral experience so far.,Positive,2025-12,1
+2025-10-29,106,"I love the new project, it's very exciting!",Positive,2025-10,1
+2025-06-30,107,Highly recommend this company to others.,Positive,2025-06,1
+2025-04-05,101,"The meeting was okay, nothing special.",Neutral,2025-04,0
+2025-04-09,109,Highly recommend this company to others.,Positive,2025-04,1
+2025-07-07,107,Fantastic work environment and great benefits.,Positive,2025-07,1
+2025-04-26,102,"I love the new project, it's very exciting!",Positive,2025-04,1
+2025-07-10,106,Neutral experience so far.,Positive,2025-07,1
+2025-09-10,102,Fantastic work environment and great benefits.,Positive,2025-09,1
+2025-06-10,106,"I want to quit, this is far too stressful.",Negative,2025-06,-1
+2025-09-13,101,"I want to quit, this is far too stressful.",Negative,2025-09,-1
+2025-11-19,109,Highly recommend this company to others.,Positive,2025-11,1
+2025-05-08,105,Poor work-life balance.,Negative,2025-05,-1
+2025-01-18,102,The management is terrible and I feel burnt out.,Negative,2025-01,-1
+2025-10-08,102,Poor work-life balance.,Negative,2025-10,-1
+2025-08-11,108,Good overall experience this month.,Positive,2025-08,1
+2025-02-23,106,Poor work-life balance.,Negative,2025-02,-1
+2025-02-27,104,Good overall experience this month.,Positive,2025-02,1
+2025-11-19,109,Good overall experience this month.,Positive,2025-11,1
+2025-12-26,106,Neutral experience so far.,Positive,2025-12,1
+2025-06-23,108,"I love the new project, it's very exciting!",Positive,2025-06,1
+2025-10-07,100,Neutral experience so far.,Positive,2025-10,1
+2025-04-24,106,Good overall experience this month.,Positive,2025-04,1
+2025-10-15,105,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-12-08,109,"I want to quit, this is far too stressful.",Negative,2025-12,-1
+2025-05-31,108,Good overall experience this month.,Positive,2025-05,1
+2025-05-07,100,Neutral experience so far.,Positive,2025-05,1
+2025-06-04,103,Fantastic work environment and great benefits.,Positive,2025-06,1
+2025-09-30,108,Neutral experience so far.,Positive,2025-09,1
+2025-04-14,103,Poor work-life balance.,Negative,2025-04,-1
+2025-10-26,109,"The meeting was okay, nothing special.",Neutral,2025-10,0
+2025-09-03,102,Highly recommend this company to others.,Positive,2025-09,1
+2025-06-25,108,The management is terrible and I feel burnt out.,Negative,2025-06,-1
+2025-02-08,101,Neutral experience so far.,Positive,2025-02,1
+2025-06-19,103,The management is terrible and I feel burnt out.,Negative,2025-06,-1
+2025-09-04,105,I am learning a lot but the hours are incredibly long.,Neutral,2025-09,0
+2025-01-26,101,Neutral experience so far.,Positive,2025-01,1
+2025-12-21,107,"The meeting was okay, nothing special.",Neutral,2025-12,0
+2025-11-02,107,The management is terrible and I feel burnt out.,Negative,2025-11,-1
+2025-01-13,100,Good overall experience this month.,Positive,2025-01,1
+2025-11-12,102,Neutral experience so far.,Positive,2025-11,1
+2025-11-09,109,"I love the new project, it's very exciting!",Positive,2025-11,1
+2025-02-05,108,Highly recommend this company to others.,Positive,2025-02,1
+2025-06-22,104,"The meeting was okay, nothing special.",Neutral,2025-06,0
+2025-01-20,105,The management is terrible and I feel burnt out.,Negative,2025-01,-1
+2025-11-17,103,"The meeting was okay, nothing special.",Neutral,2025-11,0
+2025-09-21,109,Fantastic work environment and great benefits.,Positive,2025-09,1
+2025-05-22,101,Highly recommend this company to others.,Positive,2025-05,1
+2025-05-23,107,Good overall experience this month.,Positive,2025-05,1
+2025-04-02,105,Neutral experience so far.,Positive,2025-04,1
+2025-12-20,104,Neutral experience so far.,Positive,2025-12,1
+2025-11-18,108,Neutral experience so far.,Positive,2025-11,1
+2025-10-15,100,Highly recommend this company to others.,Positive,2025-10,1
+2025-08-03,104,"I love the new project, it's very exciting!",Positive,2025-08,1
+2025-12-08,105,I am learning a lot but the hours are incredibly long.,Neutral,2025-12,0
+2025-02-20,104,"I want to quit, this is far too stressful.",Negative,2025-02,-1
+2025-06-02,105,Poor work-life balance.,Negative,2025-06,-1
+2025-07-05,105,The management is terrible and I feel burnt out.,Negative,2025-07,-1
+2025-03-04,106,"I love the new project, it's very exciting!",Positive,2025-03,1
+2025-07-09,103,Good overall experience this month.,Positive,2025-07,1
+2025-05-05,107,The management is terrible and I feel burnt out.,Negative,2025-05,-1
+2025-05-30,106,Neutral experience so far.,Positive,2025-05,1
+2025-11-10,108,"The meeting was okay, nothing special.",Neutral,2025-11,0
+2025-02-27,106,Good overall experience this month.,Positive,2025-02,1
+2025-12-08,102,The management is terrible and I feel burnt out.,Negative,2025-12,-1
+2025-11-01,102,Neutral experience so far.,Positive,2025-11,1
+2025-06-29,107,The management is terrible and I feel burnt out.,Negative,2025-06,-1
+2025-06-19,104,"The meeting was okay, nothing special.",Neutral,2025-06,0
+2025-11-22,103,Neutral experience so far.,Positive,2025-11,1
+2025-09-28,107,I am learning a lot but the hours are incredibly long.,Neutral,2025-09,0
+2025-02-23,105,"I love the new project, it's very exciting!",Positive,2025-02,1
+2025-04-11,101,Fantastic work environment and great benefits.,Positive,2025-04,1
+2025-09-21,103,Poor work-life balance.,Negative,2025-09,-1
+2025-02-22,103,Highly recommend this company to others.,Positive,2025-02,1
+2025-03-01,105,Poor work-life balance.,Negative,2025-03,-1
+2025-04-18,105,Good overall experience this month.,Positive,2025-04,1
+2025-01-05,100,Poor work-life balance.,Negative,2025-01,-1
+2025-04-13,107,Neutral experience so far.,Positive,2025-04,1
+2025-07-15,105,I am learning a lot but the hours are incredibly long.,Neutral,2025-07,0
+2025-09-19,102,Fantastic work environment and great benefits.,Positive,2025-09,1
+2025-12-31,108,"I love the new project, it's very exciting!",Positive,2025-12,1
+2025-12-16,101,"I love the new project, it's very exciting!",Positive,2025-12,1
+2025-02-16,107,"The meeting was okay, nothing special.",Neutral,2025-02,0
+2025-12-21,109,Highly recommend this company to others.,Positive,2025-12,1
+2025-11-07,102,The management is terrible and I feel burnt out.,Negative,2025-11,-1
+2025-11-04,104,I am learning a lot but the hours are incredibly long.,Neutral,2025-11,0
+2025-05-24,105,The management is terrible and I feel burnt out.,Negative,2025-05,-1
+2025-09-26,109,Fantastic work environment and great benefits.,Positive,2025-09,1
+2025-05-04,105,Poor work-life balance.,Negative,2025-05,-1
+2025-04-16,103,"I love the new project, it's very exciting!",Positive,2025-04,1
+2025-06-07,102,Fantastic work environment and great benefits.,Positive,2025-06,1
+2025-05-27,103,Poor work-life balance.,Negative,2025-05,-1
+2025-05-25,100,"I love the new project, it's very exciting!",Positive,2025-05,1
+2025-04-30,103,Poor work-life balance.,Negative,2025-04,-1
+2025-11-15,100,Highly recommend this company to others.,Positive,2025-11,1
+2025-10-02,100,I am learning a lot but the hours are incredibly long.,Neutral,2025-10,0
+2025-04-02,109,Good overall experience this month.,Positive,2025-04,1
+2025-02-27,105,Fantastic work environment and great benefits.,Positive,2025-02,1
+2025-12-12,104,Fantastic work environment and great benefits.,Positive,2025-12,1
+2025-08-17,103,"I want to quit, this is far too stressful.",Negative,2025-08,-1
+2025-04-27,102,Neutral experience so far.,Positive,2025-04,1
+2025-11-14,100,Highly recommend this company to others.,Positive,2025-11,1
+2025-10-06,105,Highly recommend this company to others.,Positive,2025-10,1
+2025-05-07,101,The management is terrible and I feel burnt out.,Negative,2025-05,-1
+2025-05-09,107,Poor work-life balance.,Negative,2025-05,-1
+2025-02-27,109,Neutral experience so far.,Positive,2025-02,1
+2025-05-02,104,I am learning a lot but the hours are incredibly long.,Neutral,2025-05,0
+2025-01-01,106,I am learning a lot but the hours are incredibly long.,Neutral,2025-01,0
+2025-08-27,109,Highly recommend this company to others.,Positive,2025-08,1
+2025-10-17,101,I am learning a lot but the hours are incredibly long.,Neutral,2025-10,0
+2025-04-06,107,"I want to quit, this is far too stressful.",Negative,2025-04,-1
+2025-05-06,101,Fantastic work environment and great benefits.,Positive,2025-05,1
+2025-04-28,103,"The meeting was okay, nothing special.",Neutral,2025-04,0
+2025-02-17,100,Good overall experience this month.,Positive,2025-02,1
+2025-03-30,104,The management is terrible and I feel burnt out.,Negative,2025-03,-1
+2025-08-25,108,Poor work-life balance.,Negative,2025-08,-1
+2025-09-29,100,Good overall experience this month.,Positive,2025-09,1
+2025-07-08,108,Poor work-life balance.,Negative,2025-07,-1
+2025-07-11,107,"I love the new project, it's very exciting!",Positive,2025-07,1
+2025-03-10,105,Good overall experience this month.,Positive,2025-03,1
+2025-10-05,106,"The meeting was okay, nothing special.",Neutral,2025-10,0
+2025-12-15,102,Highly recommend this company to others.,Positive,2025-12,1
+2025-09-04,100,"I want to quit, this is far too stressful.",Negative,2025-09,-1
+2025-03-17,104,Fantastic work environment and great benefits.,Positive,2025-03,1
+2025-06-03,101,Fantastic work environment and great benefits.,Positive,2025-06,1
+2025-05-24,104,"I want to quit, this is far too stressful.",Negative,2025-05,-1
+2025-03-27,107,Neutral experience so far.,Positive,2025-03,1
+2025-07-04,108,"I love the new project, it's very exciting!",Positive,2025-07,1
+2025-10-12,101,Poor work-life balance.,Negative,2025-10,-1
+2025-08-08,102,"The meeting was okay, nothing special.",Neutral,2025-08,0
+2025-03-10,102,I am learning a lot but the hours are incredibly long.,Neutral,2025-03,0
+2025-02-16,100,Good overall experience this month.,Positive,2025-02,1
+2025-04-04,107,"I love the new project, it's very exciting!",Positive,2025-04,1
+2025-08-26,105,Good overall experience this month.,Positive,2025-08,1
+2025-07-23,107,"The meeting was okay, nothing special.",Neutral,2025-07,0
+2025-08-06,108,The management is terrible and I feel burnt out.,Negative,2025-08,-1
+2025-12-07,104,The management is terrible and I feel burnt out.,Negative,2025-12,-1
+2025-02-08,102,"I love the new project, it's very exciting!",Positive,2025-02,1
+2025-04-10,104,Highly recommend this company to others.,Positive,2025-04,1
+2025-10-16,104,"The meeting was okay, nothing special.",Neutral,2025-10,0
+2025-09-11,104,"The meeting was okay, nothing special.",Neutral,2025-09,0
+2025-08-10,102,"I want to quit, this is far too stressful.",Negative,2025-08,-1
+2025-12-23,109,Highly recommend this company to others.,Positive,2025-12,1
+2025-01-23,103,Poor work-life balance.,Negative,2025-01,-1
+2025-09-07,108,Poor work-life balance.,Negative,2025-09,-1
+2025-01-10,109,I am learning a lot but the hours are incredibly long.,Neutral,2025-01,0
+2025-09-03,108,Fantastic work environment and great benefits.,Positive,2025-09,1
+2025-11-21,101,The management is terrible and I feel burnt out.,Negative,2025-11,-1
+2025-04-10,107,Poor work-life balance.,Negative,2025-04,-1
+2025-10-17,107,Highly recommend this company to others.,Positive,2025-10,1
+2025-06-29,106,"The meeting was okay, nothing special.",Neutral,2025-06,0
+2025-08-11,107,Poor work-life balance.,Negative,2025-08,-1
+2025-09-07,102,"The meeting was okay, nothing special.",Neutral,2025-09,0
+2025-05-27,105,Poor work-life balance.,Negative,2025-05,-1
+2025-04-06,100,The management is terrible and I feel burnt out.,Negative,2025-04,-1
+2025-09-14,106,Good overall experience this month.,Positive,2025-09,1
+2025-11-21,100,Poor work-life balance.,Negative,2025-11,-1
+2025-01-04,108,Highly recommend this company to others.,Positive,2025-01,1
+2025-01-16,100,Poor work-life balance.,Negative,2025-01,-1
+2025-10-07,100,Fantastic work environment and great benefits.,Positive,2025-10,1
+2025-12-02,106,The management is terrible and I feel burnt out.,Negative,2025-12,-1
